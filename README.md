@@ -1,4 +1,4 @@
-4# arenero_menu
+# arenero_menu
 Mi primer repositorio (pruebas)
 Nombre: Jose Aldo Flores Salas 
 Matricula: 202222577
