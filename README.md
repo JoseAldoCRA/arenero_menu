@@ -1,5 +1,6 @@
-# arenero_menu
+4# arenero_menu
 Mi primer repositorio (pruebas)
-Jose Aldo Flores Salas 
-202222577
-
+Nombre: Jose Aldo Flores Salas 
+Matricula: 202222577
+Materia: Tecnologias Web
+Periodo: Otoño 2025
